@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+// GANTI DENGAN LINK NGROK AKTIF ANDA
+const ngrokUrl = "https://822f-2404-c0-b602-282e-d08-2ca9-9e0d-bbf8.ngrok-free.app";
 <html lang="id">
 <head>
     <meta charset="UTF-8">
